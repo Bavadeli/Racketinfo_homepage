@@ -1197,6 +1197,12 @@ main.posts article {
 								padding: 8px 16px;
 								white-space: nowrap;
 							}
+							
+							nav#desktop ul.submenu li.current-menu-item a,
+							nav#desktop ul.submenu li.current_page_item a{
+								background: #f0f0f0;
+								font-weight: bold;
+							}
 
 	.title-info{
 		padding: 240px 15px 125px;
